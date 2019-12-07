@@ -2,10 +2,10 @@ package main
 
 import (
 	"fmt"
-	lib "github.com/padamstx/gomodlib"
+	lib "github.com/padamstx/gomodlib/v2"
 )
 
-const version string = "1.0.0"
+const version string = "1.0.1"
 
 func main() {
 	fmt.Printf("modapp main, version %s\n", version)
