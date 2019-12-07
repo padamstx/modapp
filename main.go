@@ -5,7 +5,7 @@ import (
 	lib "github.com/padamstx/gomodlib"
 )
 
-const version string = "1.0.0"
+const version string = "1.x-maint"
 
 func main() {
 	fmt.Printf("modapp main, version %s\n", version)
